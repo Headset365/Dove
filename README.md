@@ -1,7 +1,7 @@
 # Dove
 A very basic domain flyover tool that uses selenium and chromedriver
 
-Useage: python3 dove -i <domains.txt>
+Useage: python3 dove.py -i <domains.txt>
 
 To change from https to http, change the URL var.
 
